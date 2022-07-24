@@ -1,0 +1,15 @@
+{
+  "name": "Koileo",
+  "mail": "leolpq07@gmail.com",
+  "github": "liewoi",
+  "infomation": {
+      "gender": "Unknown",
+      "born": "20**",
+      "livein": "Huzhou, CN"
+  },
+  "description": ["I am A senior high school and technical house",
+                  "I am a beginner in blockchain."],
+  "school": ["Senior in ShanDong University,"],
+  "stacks": [ "Python", "JavaScript", "C++", "PHP","Html5"],
+  "tools": [ "VSC", "Docker", "Git" ]
+}
